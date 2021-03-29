@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: linear-gradient(
+    45deg,
+    #ff9a9e 0%,
+    #fad0c5 99%,
+    #fad0c4 100%
+  );
+}
+
+.search-bar {
+  border: 2px solid lightcoral;
+  padding: 0 30px;
+}
+
+.search-button {
+  border: 2px solid lightcoral;
+  padding: 0 30px;
+}
+
+.ingredients {
+  text-align: left;
+  font-family: initial;
+}
